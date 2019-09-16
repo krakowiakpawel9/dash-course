@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42555dac-cd43-4034-a342-63bbee5dbaad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/08_case_study_2/02_app_style.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_case_study_2/02_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_case_study_2/02_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_case_study_2/01_build_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_case_study_2/01_build_model.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -190,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568619642505</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="build frontend">
+      <created>1568621369510</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568621369510</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,6 +212,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="build backend" />
-    <option name="LAST_COMMIT_MESSAGE" value="build backend" />
+    <MESSAGE value="build frontend" />
+    <option name="LAST_COMMIT_MESSAGE" value="build frontend" />
   </component>
 </project>

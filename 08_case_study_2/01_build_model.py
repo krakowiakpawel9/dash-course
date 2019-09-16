@@ -2,7 +2,8 @@ import pandas as pd
 import numpy as np
 
 np.random.seed(10)
-df_raw = pd.read_csv('./datasets/data.csv', index_col=0)
+url = 'https://ml-repository-krakers.s3-eu-west-1.amazonaws.com/dash_course/data.csv'
+df_raw = pd.read_csv(url, index_col=0)
 
 # %%
 cols = ['Year', 'Fuel_Type', 'Transmission', 'Engine', 'Power', 'Seats', 'Price']
