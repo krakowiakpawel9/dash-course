@@ -95,8 +95,9 @@ app.layout = html.Div([
             html.Div(id='div-2'),
             html.Hr()
         ], style={'margin': '0 auto', 'textAlign': 'center'})
-    ], style={'width': '80%', 'textAlign': 'left', 'margin': '0 auto', 'fontSize': 22})
-])
+    ], style={'width': '80%', 'textAlign': 'left', 'margin': '0 auto', 'fontSize': 22,
+              'background-color': 'white', 'padding': '30px'})
+], style={'background-color': '#61BAAE'})
 
 fuel_type = {'Diesel': 'Diesel', 'Petrol': 'Benzyna', 'CNG': 'CNG',
              'LPG': 'LPG', 'Electric': 'Elektryczny'}
@@ -172,9 +173,15 @@ def predict_value(val1, val2, val3, val4, val5, val6):
         price = model.predict(df)[0]
         price = round(price * 1000, 2)
         return html.Div([
-            html.H4(f'Sugerowana cena ${price}')
-        ])
+            html.H3(f'Sugerowana cena ${price}')
+        ], style={
+            'background-color': '#FF467C',
+            'height': '40px',
+            'width': '60%',
+            'margin': '0 auto',
+            'vertical-align': 'middle'
+        })
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=True, port=8051)
