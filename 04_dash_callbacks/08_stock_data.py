@@ -1,3 +1,8 @@
+"""
+@author: krakowiakpawel9@gmail.com
+@site: e-smartdata.org
+"""
+
 def fetch_financial_data(company='AMZN'):
     """
     This function fetch stock market quotations.

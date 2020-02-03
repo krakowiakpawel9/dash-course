@@ -2,11 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42555dac-cd43-4034-a342-63bbee5dbaad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/08_case_study_2/02_app_ml.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_case_study_2/02_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_case_study_2/02_app_ml_style.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_case_study_2/02_app_style.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_case_study_2/model.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/08_case_study_2/model.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00_first_app/00_first_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/00_first_app/00_first_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_dash_intro/01_first_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_dash_intro/01_first_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_dash_intro/02_first_app_style.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_dash_intro/02_first_app_style.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_dash_intro/03_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_dash_intro/03_table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_dash_intro/04_table_pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_dash_intro/04_table_pandas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_dash_intro/05_graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_dash_intro/05_graph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_dash_core/01_dropdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_dash_core/01_dropdown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_dash_core/02_slider.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_dash_core/02_slider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_dash_core/03_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_dash_core/03_input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_dash_core/04_text_area.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_dash_core/04_text_area.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_dash_core/05_checklist.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_dash_core/05_checklist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_dash_core/06_radioitem.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_dash_core/06_radioitem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_dash_core/07_button.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_dash_core/07_button.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_dash_core/08_datepicker.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_dash_core/08_datepicker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_dash_core/09_markdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_dash_core/09_markdown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_dash_core/10_tabs.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_dash_core/10_tabs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_dash_core/11_graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_dash_core/11_graph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_dash_core/12_html_div.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_dash_core/12_html_div.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_dash_callbacks/00_decorator/01_intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_dash_callbacks/00_decorator/01_intro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_dash_callbacks/00_decorator/02_intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_dash_callbacks/00_decorator/02_intro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_dash_callbacks/00_decorator/03_intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_dash_callbacks/00_decorator/03_intro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_dash_callbacks/01_simple_callback.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_dash_callbacks/01_simple_callback.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_dash_callbacks/02_button.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_dash_callbacks/02_button.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_dash_callbacks/02_button_date.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_dash_callbacks/02_button_date.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_dash_callbacks/03_graph_callback.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_dash_callbacks/03_graph_callback.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_dash_callbacks/04_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_dash_callbacks/04_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_dash_callbacks/05_chained_callback.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_dash_callbacks/05_chained_callback.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_dash_callbacks/06_chained_callbacks_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_dash_callbacks/06_chained_callbacks_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_dash_callbacks/07_prevent_update.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_dash_callbacks/07_prevent_update.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_dash_callbacks/08_stock_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_dash_callbacks/08_stock_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_dash_callbacks/09_upload_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_dash_callbacks/09_upload_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_dash_callbacks/10_upload_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_dash_callbacks/10_upload_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_dash_callbacks/11_upload_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_dash_callbacks/11_upload_image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_dash_callbacks/12_tabs.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_dash_callbacks/12_tabs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_dash_callbacks/13_tabs_three.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_dash_callbacks/13_tabs_three.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_dash_callbacks/14_dropdown_graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_dash_callbacks/14_dropdown_graph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_dash_callbacks/15_loading.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_dash_callbacks/15_loading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_data_table/01_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_data_table/01_table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_data_table/02_table_pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_data_table/02_table_pandas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_data_table/03_table_interactive.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_data_table/03_table_interactive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_data_table/04_table_format.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_data_table/04_table_format.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_data_table/05_export.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_data_table/05_export.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_multi_page/01_multi_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_multi_page/01_multi_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_multi_page/02_multi_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_multi_page/02_multi_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_case_study_1/01_simple_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_case_study_1/01_simple_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_case_study_1/01_simple_app_style.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_case_study_1/01_simple_app_style.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_case_study_2/01_build_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_case_study_2/01_build_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_case_study_2/02_app_ml.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_case_study_2/02_app_ml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_case_study_2/02_app_ml_style.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_case_study_2/02_app_ml_style.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

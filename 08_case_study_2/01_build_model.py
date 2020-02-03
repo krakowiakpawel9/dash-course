@@ -1,3 +1,8 @@
+"""
+@author: krakowiakpawel9@gmail.com
+@site: e-smartdata.org
+"""
+
 # -*- coding: utf-8 -*-
 import pandas as pd
 import numpy as np
