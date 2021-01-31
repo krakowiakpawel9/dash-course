@@ -31,5 +31,9 @@ app.layout = html.Div([
 def update_output(value, n_clicks):
     return f'Wprowadziłeś {value} i nacisnąłeś przycisk {n_clicks} razy'
 
+@app.callback(
+    output=Output()
+)
+
 if __name__ == '__main__':
     app.run_server(debug=True)
